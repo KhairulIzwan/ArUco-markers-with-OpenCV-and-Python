@@ -23,3 +23,8 @@ coding (unlike AprilTags where no such generators are easily found).
 1. There are **ROS (Robot Operating System) implementations** of ArUco markers.
 1. And from an implementation perspective, ArUco marker detections tend to be 
 **more accurate**, even when using the default parameters.
+
+## References
+1. https://www.pyimagesearch.com/2020/12/14/generating-aruco-markers-with-opencv-and-python/
+1. https://www.pyimagesearch.com/2020/12/21/detecting-aruco-markers-with-opencv-and-python/
+1. https://www.pyimagesearch.com/2020/12/28/determining-aruco-marker-type-with-opencv-and-python/
